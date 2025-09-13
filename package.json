@@ -10,6 +10,7 @@
   "dependencies": {
     "@prisma/client": "^6.16.1",
     "@prisma/extension-accelerate": "^2.0.2",
+    "@radix-ui/themes": "^3.2.1",
     "classnames": "^2.5.1",
     "next": "15.5.3",
     "react": "19.1.0",
